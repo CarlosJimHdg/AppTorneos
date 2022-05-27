@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Partidos" value="name:EQUIPO1;datatype:string,name:EQUIPO2;datatype:string,name:FECHA;datatype:string,name:CAMPO;datatype:string,name:HORA;datatype:time" />
+</info>

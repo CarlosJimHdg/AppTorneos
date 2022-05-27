@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:EQUIPO1;datatype:string,name:EQUIPO2;datatype:string,name:FECHA;datatype:date,name:CAMPO;datatype:string" />
+	<infoitem key="UD_Lista_Equipos" value="name:ID_EQUIPO;datatype:int,name:NUMERO;datatype:int,name:NOM_EQUIPO;datatype:string,name:DT_EQUIPO;datatype:string,name:ORIGEN_EQUIPO;datatype:string,name:ID_TORNEO;datatype:int,name:PJ;datatype:int,name:PG;datatype:int,name:PE;datatype:int,name:PP;datatype:int,name:GF;datatype:int,name:GC;datatype:int,name:DIF;datatype:int,name:PUNTOS;datatype:int,name:ID_TORNEO;datatype:int,name:NOM_TORNEO;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Lista_Avisos" value="name:ID_AVISO;datatype:int,name:TITULO;datatype:string,name:DESCRIPCION;datatype:string,name:FECHA_VIGENCIA;datatype:date" />
+</info>
